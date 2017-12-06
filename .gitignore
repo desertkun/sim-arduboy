@@ -1,0 +1,6 @@
+projects/osx/arduboy-emulator.xcodeproj
+projects/osx/CMakeScripts
+projects/osx/arduboy-emulator.build
+projects/osx/CMakeFiles
+projects/osx/simavr
+CMakeCache.txt

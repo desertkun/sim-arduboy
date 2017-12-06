@@ -29,7 +29,7 @@
 #include <sim_hex.h>
 #include <sim_gdb.h>
 #include <sim_time.h>
-#include <ssd1306_virt.h>
+#include "ssd1306_virt.h"
 
 #include "sim_arduboy.h"
 #include "arduboy_avr.h"

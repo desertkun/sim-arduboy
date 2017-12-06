@@ -27,7 +27,7 @@
 #endif
 
 #include "ssd1306_gl.h"
-#include <ssd1306_virt.h>
+#include "ssd1306_virt.h"
 
 
 static struct mod_state {
