@@ -4,3 +4,6 @@ projects/osx/arduboy-emulator.build
 projects/osx/CMakeFiles
 projects/osx/simavr
 CMakeCache.txt
+lib
+bin
+cmake_install.cmake
